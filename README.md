@@ -1,2 +1,3 @@
-# random_musings
-my place to store random notes
+# Personal Notes
+
+[creating a hugo-based blog/site](hugo.md)
